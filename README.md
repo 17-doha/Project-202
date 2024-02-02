@@ -6,7 +6,7 @@ Set El Kol introduces a solution for homemade meals that can be ordered and deli
 Getting Started  
 ===========  
 
-**Prerequisites**  
+**Softwares**  
 Before you start, ensure you have the following prerequisites installed:
 
    * [ASP.NET Core](https://dotnet.microsoft.com/en-us/download).
