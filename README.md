@@ -3,11 +3,6 @@ Set El Kol
 
 Set El Kol introduces a solution for homemade meals that can be ordered and delivered more expansively by creating an account as a customer, cook, or delivery person through this web application. 
 
-Project Demo 
-=========== 
-
-https://github.com/17-doha/Project-202/assets/65771031/cdd56b16-fb2f-4868-b7b4-4bc146dbce9e
-
 Getting Started  
 ===========  
 
@@ -22,5 +17,11 @@ Before you start, ensure you have the following prerequisites installed:
   * C#
   * HTML
   * CSS
+
+Project Demo 
+=========== 
+
+https://github.com/17-doha/Project-202/assets/65771031/cdd56b16-fb2f-4868-b7b4-4bc146dbce9e
+
 
 
