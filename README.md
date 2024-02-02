@@ -9,9 +9,8 @@ Getting Started
 **Prerequisites**  
 Before you start, ensure you have the following prerequisites installed:
 
-   * [ASP.NET Core] (https://dotnet.microsoft.com/en-us/download).
-   * A [ASP.NET Core](https://dotnet.microsoft.com/en-us/download).
-   * [Microsoft SQL Server] (https://www.microsoft.com/en-us/sql-server/).
+   * [ASP.NET Core](https://dotnet.microsoft.com/en-us/download).
+   * [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server/).
 
 **Installation**
 
